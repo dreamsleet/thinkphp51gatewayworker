@@ -15,4 +15,4 @@ thinkphp 5.1.23 整合gatewaywoker 实现TCP长连接应用
 	
 备注：
 	application/server/controller/Run  		#服务配置，修改启动进程数和端口等	
-	application/server/controller/Events  	#项目逻辑处理[收到信息以及发送信息等]
+	application/server/controller/Events  	#项目逻辑处理[收到的信息以及发送信息的处理等]
