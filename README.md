@@ -2,6 +2,7 @@
 thinkphp 5.1.23 整合gatewaywoker 实现TCP长连接应用
 
 使用：
+
 方法一、
 	git clone https://github.com/dreamsleet/thinkphp51gatewayworker.git	
 	
