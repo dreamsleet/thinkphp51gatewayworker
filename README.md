@@ -10,7 +10,7 @@ thinkphp 5.1.23 整合gatewaywoker 实现TCP长连接应用
 
 	composer require workerman/gateway-worker
 
-3，	启动
+3，启动
 	php /home/www/thinkphp51gatewayworker/public/server.php start -d 	#修改为自己的实际项目路径
 	
 备注：
