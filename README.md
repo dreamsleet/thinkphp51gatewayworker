@@ -4,6 +4,8 @@ thinkphp 5.1.23 整合gatewaywoker 实现TCP长连接应用
 	git clone https://github.com/dreamsleet/thinkphp51gatewayworker.git	
 	
 
+附：
+
 
 thinkphp安装
 
@@ -15,8 +17,11 @@ workerman及gatewayworker安装
 	composer require workerman/gateway-worker
 
 改动文件和目录：
+
 	public/server.php 
+	
 	application/server
+	
 
 
 
