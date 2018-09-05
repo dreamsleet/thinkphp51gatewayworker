@@ -1,28 +1,26 @@
 # thinkphp51gatewayworker
 thinkphp 5.1.23 整合gatewaywoker 实现TCP长连接应用
 
-使用：
-
-方法一、
-
 	git clone https://github.com/dreamsleet/thinkphp51gatewayworker.git	
 	
-	
-方法二、
 
-1，安装thinkphp
+
+thinkphp安装
 
 	composer create-project topthink/think
 	
 
-2，安装workerman及gatewayworker
+workerman及gatewayworker安装
 
 	composer require workerman/gateway-worker
-3，复制public/server.php 复制application/server目录
+
+改动文件和目录：
+	public/server.php 
+	application/server
 
 
 
-============================================================================
+==========================================================================
 
 启动
 	php /home/www/thinkphp51gatewayworker/public/server.php start -d 	#修改为自己的实际项目路径
